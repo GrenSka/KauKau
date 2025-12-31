@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-image: url('"C:/Users/Rakesh Chouhan/Pictures/kausar-bg.jpg"');
+  background-image: url('/kausar-bg.jpg'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
