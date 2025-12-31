@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/GrenSka/KauKau/issues"
   },
-  "homepage": "https://github.com/GrenSka/KauKau#readme"
+  "homepage": "https://github.com/GrenSka/KauKau#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-session": "^1.18.2"
+  }
 }
